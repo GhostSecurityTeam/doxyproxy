@@ -39,7 +39,7 @@ Features include:
 
 ## Install
 
-> go get github.com/syrinsecurity/doxyproxy
+> go get github.com/GhostSecurityTeam/doxyprox
 
 # Examples
 
